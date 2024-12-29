@@ -1,0 +1,6 @@
+# 元宇宙dapp链游虚拟城市经营-土地出租、区块链农场、NFT场景游戏
+
+大亨计划是在wax链上发行的商业类经营模拟游戏，玩家需要从事各种农业、牧业、工业一步步积累资源，发展经济，拓展商业版图，设置得到系统权限，成为游戏的运营者之一，TPC是Tycoonplan<br>Tycoonplan所有模型都经过精心策划，以实现最长的使用寿命和可持续性。通过游戏购买或赚取的任何东西都是您真正拥有并保留的。<br>我们不仅采用了WAX提供支持的更新的“沙盒经营技术”，它已经是碳中和的，而且我们还计划继续将我们的大部分收益捐赠给应对气候变化的非营利组织（细节即将公布）。<br>通过在我们共享的新Tycoonplan世界中一起玩耍和创造，我们也可以让我们现在的世界变得更好。<br>1、土地预售模块<br>2、有了土地后，才能购买开盲盒：买房子和车，分别出租产出<br>进入游戏前必须购买一块土地，土地是前面通过盲盒开到的，进入游戏后默认可以使用。<br>进入土地后，默认是空白的一块，所有的土地都在这一个地图内，可以互相看到旁边的土地上的场景。总共只有4000块土地，土地也是NFT上链，土地分为三种等级。<br>土地预售页：后台先设置400U/一款土地。后台每天可改价格。<br>以下所有的S等级、SR等级、SSR等级 分别按2500:1000:500的开盲盒比例.<br>土地：<br>S等级 土地坐落在山区，人口较少经济发展一般  （无加速）<br>SR等级土地坐落在中部平原地区，人口较多，经济发展较好。 （所有房车收益增加20%）<br>SSR等级土地坐落在沿海地区，人口非常多，经济发达。（所有房车收益增加40%）<br>售前须知<br>example.com，确保是您所需产品；<br>example.com；<br>example.com，请联系客服了解所需环境及服务器；<br>example.com，不包含外部接口对接、运维和新增需求，如有其他需求请联系客服；<br>example.com,下单即默认已阅读并同意以上条款；<br>example.com：本公司所售程序仅供学习研究、模拟测试，不得使用于非法用途，不得违反国家法律，否则后果自负！如用作其他用途造成的一切法律责任后果由买家承担，与、本公司皆无关系！谢谢配合！<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/towQB" style="color: red;">https://mega-file.org/towQB</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
